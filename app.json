@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/PaleXUr/Pale-File-Sharing4",
+  "repository": "https://github.com/PaleXUr/Pale-File-Sharing3",
   "logo": "https://telegra.ph/file/9f0a7192891de6fe937b4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
